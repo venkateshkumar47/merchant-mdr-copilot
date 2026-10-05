@@ -14,3 +14,17 @@ Features:
 Run:
 python -m pip install -r requirements.txt
 streamlit run app.py
+
+END-TO-END FLOW
+
+Settlement CSV
+      ↓
+Data Pipeline & Validation
+      ↓
+Deterministic MDR Rule Engine
+      ↓
+Streamlit Dashboard
+      ↓
+Insights + Accounting-Ready Reporting
+      ↓
+Historical Storage / Trend Monitoring
